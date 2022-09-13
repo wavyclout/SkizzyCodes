@@ -4,7 +4,7 @@ I am a teen who is interested in coding, especially in languages like JavaScript
 ### Github Statistics:
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=skizzycodes&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skizzycodes&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skizzycodes&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Languages and Tools:
 <p align="left">
