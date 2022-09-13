@@ -10,4 +10,5 @@ I am a teen who is interested in coding, especially in languages like JavaScript
 <img src="https://img.shields.io/badge/-HTML5-black?style=for-the-badge&logo=HTML5" />
 <img src="https://img.shields.io/badge/CSS-black?style=for-the-badge&logo=css3&logoColor=#1572B6" />
 <img src="https://img.shields.io/badge/Javascript-black?style=for-the-badge&logo=javascript" />
+<img src="https://img.shields.io/badge/Javascript-black?style=for-the-badge&logo=sass" />
 </p>
